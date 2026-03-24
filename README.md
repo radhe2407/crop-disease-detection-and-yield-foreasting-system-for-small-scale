@@ -1,0 +1,1 @@
+# crop-disease-detection-and-yield-foreasting-system-for-small-scale
